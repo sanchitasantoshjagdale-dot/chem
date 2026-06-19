@@ -1,1 +1,2 @@
 # chem
+git init
